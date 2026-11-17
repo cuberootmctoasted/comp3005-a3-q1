@@ -12,3 +12,7 @@
 - in main.py, change the string at `CONN_INFO` to connect to the desired postgresql database
 - you will enter the menu page, where you can input a number to enter a page to do the specified action. you can input ';;' to exit
 - when inside any page except for 'SHOW ALL STUDENTS' page. you will be repeatedly prompted the specified action until you input ';;' to exit
+
+# Video Demonstration
+
+- https://drive.google.com/file/d/1Y55h1Op2QGeb0tC-anj8eSBcvfcGVDyw/view?usp=drive_link
